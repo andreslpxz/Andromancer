@@ -3,7 +3,7 @@
   <img src="assets/lv_0_20260210155446-ezgif.com-video-to-gif-converter.gif" width="200" alt="AndroMancer Android Hello">
 </p>
 
-![GitHub stars](https://img.shields.io/github/stars/juanalbertonere-rgb/andromancer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/andreslpxz/Andromancer?style=social)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
 ![LLM](https://img.shields.io/badge/LLM-Groq%20|%20Llama%204%20Scout-orange)
